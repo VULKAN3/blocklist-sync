@@ -1,6 +1,8 @@
 {
     "domains": [],
-    "usernames": [],
+    "usernames": [
+        "WalterBrugs"
+    ],
     "ips": [
         "213.209.150.163",
         "213.209.150.162"
