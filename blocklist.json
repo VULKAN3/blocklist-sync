@@ -1,8 +1,13 @@
 {
-    "domains": [],
-    "usernames": [],
+    "domains": [
+        "sitesseo.site"
+    ],
+    "usernames": [
+        "WalterBrugs"
+    ],
     "ips": [
         "213.209.150.163",
-        "213.209.150.162"
+        "213.209.150.162",
+        "37.212.49.206"
     ]
 }
