@@ -1,16 +1,16 @@
 {
-    "domains": [
-        "sitesseo.site",
-        "1secmail.net"
-    ],
-    "usernames": [
-        "WalterBrugs",
-        "antoniettajowett3680"
-    ],
-    "ips": [
-        "213.209.150.163",
-        "213.209.150.162",
-        "37.212.49.206",
-        "45.81.137.248"
-    ]
+    "domains": {
+        "0": "sitesseo.site",
+        "2": "1secmail.net"
+    },
+    "usernames": {
+        "0": "WalterBrugs",
+        "2": "antoniettajowett3680"
+    },
+    "ips": {
+        "0": "213.209.150.163",
+        "1": "213.209.150.162",
+        "2": "37.212.49.206",
+        "6": "45.81.137.248"
+    }
 }
