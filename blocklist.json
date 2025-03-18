@@ -1,22 +1,22 @@
 {
-    "domains": {
-        "0": "sitesseo.site",
-        "1": "1secmail.net",
-        "2": "hotmail.com",
-        "3": "prostpro.fun",
-        "7": "triol.site"
-    },
-    "usernames": {
-        "0": "WalterBrugs",
-        "1": "antoniettajowett3680",
-        "4": "vcoh"
-    },
-    "ips": {
-        "0": "213.209.150.163",
-        "1": "213.209.150.162",
-        "2": "37.212.49.206",
-        "3": "45.81.137.248",
-        "4": "87.239.191.53",
-        "10": "176.56.177.138"
-    }
+    "domains": [
+        "sitesseo.site",
+        "1secmail.net",
+        "hotmail.com",
+        "prostpro.fun",
+        "triol.site"
+    ],
+    "usernames": [
+        "WalterBrugs",
+        "antoniettajowett3680",
+        "vcoh"
+    ],
+    "ips": [
+        "213.209.150.163",
+        "213.209.150.162",
+        "37.212.49.206",
+        "45.81.137.248",
+        "87.239.191.53",
+        "176.56.177.138"
+    ]
 }
