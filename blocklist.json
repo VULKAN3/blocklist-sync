@@ -1,10 +1,10 @@
 {
-    "domains": [
-        "sitesseo.site",
-        "1secmail.net",
-        "hotmail.com",
-        "prostpro.fun"
-    ],
+    "domains": {
+        "0": "sitesseo.site",
+        "1": "1secmail.net",
+        "2": "hotmail.com",
+        "6": "prostpro.fun"
+    },
     "usernames": [
         "WalterBrugs",
         "antoniettajowett3680"
