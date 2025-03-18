@@ -1,19 +1,19 @@
 {
-    "domains": [
-        "sitesseo.site",
-        "1secmail.net",
-        "hotmail.com",
-        "prostpro.fun"
-    ],
+    "domains": {
+        "0": "sitesseo.site",
+        "1": "1secmail.net",
+        "2": "hotmail.com",
+        "6": "prostpro.fun"
+    },
     "usernames": [
         "WalterBrugs",
         "antoniettajowett3680"
     ],
-    "ips": [
-        "213.209.150.163",
-        "213.209.150.162",
-        "37.212.49.206",
-        "45.81.137.248",
-        "87.239.191.53"
-    ]
+    "ips": {
+        "0": "213.209.150.163",
+        "1": "213.209.150.162",
+        "2": "37.212.49.206",
+        "3": "45.81.137.248",
+        "8": "87.239.191.53"
+    }
 }
