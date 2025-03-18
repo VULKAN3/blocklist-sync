@@ -1,9 +1,9 @@
 {
-    "domains": {
-        "0": "sitesseo.site",
-        "1": "1secmail.net",
-        "4": "hotmail.com"
-    },
+    "domains": [
+        "sitesseo.site",
+        "1secmail.net",
+        "hotmail.com"
+    ],
     "usernames": [
         "WalterBrugs",
         "antoniettajowett3680"
