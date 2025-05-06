@@ -2,6 +2,8 @@
     "ips": [
         "65.215.70.2"
     ],
-    "domains": [],
+    "domains": [
+        "cloudmails.site"
+    ],
     "usernames": []
 }
